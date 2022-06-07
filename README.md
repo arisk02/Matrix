@@ -1,6 +1,6 @@
 # Matrix
 
-This project was me testing if I have mastered copy and move constructors and assignment operator, 
+This project was me testing if I have mastered copy and move constructors and assignment operators, 
 tested my knowledge of overloading operators, allocating and deallocating dynamic memory, as well as my
 knowledge of pointers and header and source files. This was half way through my C++ course.
 
